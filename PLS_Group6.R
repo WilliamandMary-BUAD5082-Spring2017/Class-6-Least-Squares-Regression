@@ -59,7 +59,7 @@ rm(list=ls())
 #Use College data set in ISLR library
 library(ISLR)
 
-#Look at the Boston data set
+#Look at the College data set
 names(College)
 dim(College)
 
